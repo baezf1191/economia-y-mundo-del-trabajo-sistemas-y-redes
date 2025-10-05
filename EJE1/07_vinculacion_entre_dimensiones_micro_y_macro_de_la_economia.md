@@ -49,14 +49,3 @@ Ambas dimensiones están **íntimamente relacionadas**:
 En otras palabras:
 
 > **Lo micro influye en lo macro, y lo macro condiciona lo micro.**
-
----
-
-###  **Ejemplos aplicados a sistemas y redes**
-
-| Nivel              | Ejemplo                                                                                    | Impacto económico                                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| **Microeconómico** | Un técnico optimiza la red de una PyME reduciendo el consumo energético de los servidores. | Menores costos operativos, mayor eficiencia y competitividad.                            |
-| **Microeconómico** | Un administrador elige software libre para evitar gastos en licencias.                     | Ahorro local, pero también impulso al uso de tecnologías abiertas.                       |
-| **Macroeconómico** | El gobierno lanza un plan nacional de conectividad educativa.                              | Mayor acceso a la tecnología, creación de empleo y desarrollo digital.                   |
-| **Macroeconómico** | Aumento del dólar encarece la importación de hardware.                                     | Las empresas locales optan por reparar o reutilizar equipos existentes (decisión micro). |
