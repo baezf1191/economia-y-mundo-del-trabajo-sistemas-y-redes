@@ -1,19 +1,62 @@
-# Vinculación entre las dimensiones “micro” y “macro” de la economía
+# **Vinculación entre las dimensiones “micro” y “macro” de la economía**
 
-La microeconomía y la macroeconomía están conectadas porque **las decisiones individuales influyen en el conjunto de la sociedad**. 
+La economía puede analizarse desde dos perspectivas complementarias: la **microeconomía** y la **macroeconomía**. Aunque estudian niveles distintos, ambas están **estrechamente vinculadas**, porque las decisiones individuales (micro) se acumulan y terminan impactando en el conjunto de la sociedad (macro).
+A su vez, las políticas o tendencias macroeconómicas influyen directamente en las decisiones diarias que tomamos como técnicos, empresas o consumidores.
 
-- **Microeconomía:** se centra en decisiones cotidianas de empresas o profesionales, por ejemplo:
-  - Elegir entre pagar Microsoft 365 o usar LibreOffice + Google Drive.
-  - Mantener y configurar redes en una pequeña empresa.
-  - Organizar el trabajo diario para optimizar resultados.
+---
 
-- **Macroeconomía:** se ocupa de decisiones que afectan a toda la sociedad, como:
-  - Inversiones en infraestructura tecnológica.
-  - Planes de conectividad educativa o gubernamental.
-  - Programas nacionales de formación técnica.
+###  **Microeconomía: las decisiones individuales**
 
-Como técnico en sistemas y redes, **puedo actuar en ambos niveles**:
-- Micro: resolviendo problemas de red en una PyME o mejorando la infraestructura de un aula virtual.
-- Macro: participando en proyectos de conectividad educativa o colaborando en iniciativas estatales de tecnología.
+La **microeconomía** analiza cómo **personas, empresas o profesionales** toman decisiones sobre el uso de sus recursos: tiempo, dinero, equipamiento o conocimiento.
+Se centra en el **comportamiento individual** y en cómo esas decisiones afectan la oferta y la demanda en pequeños mercados.
 
-Comprender esta relación ayuda a visualizar **cómo el trabajo diario y las decisiones individuales forman parte de un entramado económico más amplio**, donde la eficiencia y la innovación técnica influyen tanto en la economía local como en proyectos y políticas a gran escala.
+En el ámbito de **sistemas y redes**, esto se ve reflejado en situaciones como:
+
+*  **Elegir herramientas o licencias:** decidir si conviene pagar por Microsoft 365 o usar alternativas gratuitas como LibreOffice y Google Drive.
+*  **Optimizar recursos tecnológicos:** configurar una red doméstica o empresarial para lograr la mejor velocidad y seguridad posible sin aumentar los costos.
+*  **Gestión del trabajo personal:** organizar tareas, automatizar procesos con scripts o implementar backups eficientes.
+*  **Decisiones de seguridad:** establecer políticas de contraseñas, cifrado o actualizaciones según el nivel de riesgo y presupuesto disponible.
+
+Cada una de estas decisiones, aunque pequeña, **afecta directamente la productividad y los costos** de una organización o usuario.
+
+>  La microeconomía es el análisis de las pequeñas piezas que, juntas, forman el engranaje completo del sistema económico.
+
+---
+
+###  **Macroeconomía: el funcionamiento general de la economía**
+
+La **macroeconomía**, en cambio, se enfoca en el panorama general: **cómo funciona la economía de un país o del mundo**.
+Estudia variables globales como el empleo, la inflación, la inversión pública, las exportaciones, o la producción total de bienes y servicios.
+
+En el ámbito tecnológico y de redes, la macroeconomía influye en factores como:
+
+*  **Inversiones en infraestructura tecnológica:** construcción de redes de fibra óptica, centros de datos nacionales, y ampliación de cobertura 4G o 5G.
+*  **Planes educativos y de conectividad:** programas de acceso gratuito a Internet, distribución de computadoras en escuelas o cursos de formación técnica digital.
+*  **Políticas económicas y fiscales:** subsidios o impuestos que afectan la importación de hardware, el precio de los servicios digitales o la contratación de profesionales TIC.
+*  **Economía global:** fluctuaciones en el dólar o en los mercados internacionales que repercuten en el costo de licencias, servidores o servicios en la nube.
+
+>  La macroeconomía es el marco general que determina las condiciones en las que se desarrollan nuestras decisiones individuales.
+
+---
+
+###  **Cómo se conectan la micro y la macroeconomía**
+
+Ambas dimensiones están **íntimamente relacionadas**:
+
+* Las decisiones microeconómicas de miles de individuos y empresas crean **patrones de consumo, inversión y trabajo** que, al acumularse, dan forma al comportamiento macroeconómico del país.
+* A su vez, las políticas macroeconómicas condicionan las posibilidades y límites de las decisiones individuales.
+
+En otras palabras:
+
+> **Lo micro influye en lo macro, y lo macro condiciona lo micro.**
+
+---
+
+###  **Ejemplos aplicados a sistemas y redes**
+
+| Nivel              | Ejemplo                                                                                    | Impacto económico                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **Microeconómico** | Un técnico optimiza la red de una PyME reduciendo el consumo energético de los servidores. | Menores costos operativos, mayor eficiencia y competitividad.                            |
+| **Microeconómico** | Un administrador elige software libre para evitar gastos en licencias.                     | Ahorro local, pero también impulso al uso de tecnologías abiertas.                       |
+| **Macroeconómico** | El gobierno lanza un plan nacional de conectividad educativa.                              | Mayor acceso a la tecnología, creación de empleo y desarrollo digital.                   |
+| **Macroeconómico** | Aumento del dólar encarece la importación de hardware.                                     | Las empresas locales optan por reparar o reutilizar equipos existentes (decisión micro). |
