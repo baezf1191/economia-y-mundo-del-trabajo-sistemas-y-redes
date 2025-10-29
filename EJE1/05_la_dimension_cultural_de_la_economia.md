@@ -13,3 +13,9 @@ Por ejemplo:
 Para un **técnico en administración de sistemas y redes**, comprender esta dimensión cultural es esencial. No se trata solo de saber instalar o configurar programas, sino de entender **qué valores y principios** hay detrás de cada entorno tecnológico. Esto permite tomar decisiones más conscientes sobre cómo implementar soluciones, participar en comunidades digitales o desarrollar proyectos que equilibren eficiencia técnica con responsabilidad social.
 
 En definitiva, la economía digital moderna no se construye solo con datos y servidores: también se forma con las **ideas, valores y culturas** que definen cómo usamos y compartimos la tecnología.
+
+---
+
+Si el tema le llamó la atención, puede mirar el siguiente video, el cual es de una jornada virtual que habla sobre lo anteriormente explicado:
+
+[![04](https://img.youtube.com/vi/6_BolhE34Vc/hqdefault.jpg)](https://www.youtube.com/watch?v=6_BolhE34Vc)
