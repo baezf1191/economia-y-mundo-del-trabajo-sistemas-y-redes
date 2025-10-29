@@ -79,3 +79,9 @@ En este contexto, los técnicos en sistemas y redes son los **nuevos pilares de 
 * Mantienen en funcionamiento la base tecnológica sobre la que operan las instituciones.
 * Permiten que la comunicación y la información fluyan sin interrupciones.
 * Y hacen posible la continuidad de servicios esenciales en entornos virtuales.
+
+---
+
+Puede Observar el siguiente video educativo para informarse más:
+
+[![02](https://img.youtube.com/vi/6yPKevyLj8E/hqdefault.jpg)](https://www.youtube.com/watch?v=6yPKevyLj8E)
