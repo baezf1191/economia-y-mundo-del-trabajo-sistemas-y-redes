@@ -67,3 +67,8 @@ Un técnico enfrenta constantemente decisiones como:
 * Cómo **planificar backups y almacenamiento** sin malgastar espacio ni energía.
 
 Cada una de estas decisiones representa un **problema económico en miniatura**, donde el objetivo es **lograr el máximo rendimiento posible con los recursos disponibles**.
+
+
+Si muestra más interes en este tema, puede observar el siguiente video:
+
+[![Problema economico](https://img.youtube.com/vi/n_0fgA5TvDM/hqdefault.jpg)](https://www.youtube.com/watch?v=n_0fgA5TvDM)
