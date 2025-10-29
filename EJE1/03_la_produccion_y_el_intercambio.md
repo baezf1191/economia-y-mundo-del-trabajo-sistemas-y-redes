@@ -86,3 +86,9 @@ En el mundo de los sistemas y redes, esto se traduce en un ciclo continuo donde:
 1. Se **producen soluciones tecnológicas**, conocimientos o servicios.
 2. Esos resultados se **intercambian** mediante trabajo, colaboración o enseñanza.
 3. Se **retroalimentan** los conocimientos y las habilidades, generando más innovación y eficiencia.
+
+---
+
+El Siguiente video puede ser de su interes:
+
+[![03](https://img.youtube.com/vi/GhvzJPBH2uY/hqdefault.jpg)](https://www.youtube.com/watch?v=GhvzJPBH2uY)
