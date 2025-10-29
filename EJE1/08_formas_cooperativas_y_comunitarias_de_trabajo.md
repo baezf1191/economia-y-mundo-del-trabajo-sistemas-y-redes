@@ -19,6 +19,8 @@ En tecnología, la colaboración y el trabajo comunitario tienen un impacto dire
 * **Foros técnicos y grupos de ayuda en línea:**
   Plataformas como Stack Overflow, Reddit o Discord permiten que técnicos y aficionados resuelvan problemas, intercambien conocimientos y aprendan colectivamente. La cooperación voluntaria acelera la **resolución de problemas complejos** que un individuo, por sí solo, no podría abordar.
 
+![imagen1](https://blog.desdelinux.net/wp-content/uploads/2019/07/comunidades-sustentables-sostenibles-imagen-destacada-blog-desdelinux.png?raw=true)
+
 ---
 
 ## **Proyectos que requieren colaboración**
