@@ -83,3 +83,9 @@ Su trabajo tiene un impacto directo en:
 * La **gestión pública** (sistemas administrativos y de datos).
 * La **comunicación y cultura** (redes sociales, medios digitales, videojuegos).
 * Y la **economía en general** (comercio electrónico, banca online, automatización de procesos).
+
+---
+
+Si el tema le llamó la atención, puede mirar el siguiente video, el cual es de una jornada virtual que habla sobre lo anteriormente explicado:
+
+[![04](https://img.youtube.com/vi/cOyeBzzJfx4/hqdefault.jpg)](https://www.youtube.com/watch?v=cOyeBzzJfx4)
