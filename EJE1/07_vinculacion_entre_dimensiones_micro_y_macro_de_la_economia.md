@@ -49,3 +49,9 @@ Ambas dimensiones están **íntimamente relacionadas**:
 En otras palabras:
 
 > **Lo micro influye en lo macro, y lo macro condiciona lo micro.**
+
+---
+
+Dejo este video por si le interesa explorar un poco más el tema:
+
+[![07](https://img.youtube.com/vi/lN1XAE_6fSE/hqdefault.jpg)](https://www.youtube.com/watch?v=lN1XAE_6fSE)
