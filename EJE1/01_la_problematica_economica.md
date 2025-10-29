@@ -68,6 +68,7 @@ Un técnico enfrenta constantemente decisiones como:
 
 Cada una de estas decisiones representa un **problema económico en miniatura**, donde el objetivo es **lograr el máximo rendimiento posible con los recursos disponibles**.
 
+---
 
 Si muestra más interes en este tema, puede observar el siguiente video:
 
