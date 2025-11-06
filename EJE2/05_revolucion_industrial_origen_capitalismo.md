@@ -43,7 +43,7 @@ Durante la Revolución Industrial, el avance tecnológico fue constante:
 * **El ferrocarril** conectó regiones enteras, reduciendo costos y tiempos.
 * Posteriormente, la **electricidad y el motor de combustión** iniciaron la Segunda Revolución Industrial.
 
-![img5](https://www.elextremosur.com/files/image/32/32792/64f5c3e663cb0_1180_664%21.jpg?d=1751896157&s=7983f1a398db3f80964731e5c9da3808)
+![img5](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dan_Hadani_collection_%28990044401360205171%29.jpg/1024px-Dan_Hadani_collection_%28990044401360205171%29.jpg)
 
 Cada innovación tecnológica aumentaba la productividad y la capacidad de control sobre el trabajo, transformando profundamente la relación entre el ser humano y la máquina.
 
