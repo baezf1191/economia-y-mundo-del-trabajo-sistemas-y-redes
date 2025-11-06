@@ -33,3 +33,7 @@ En la práctica, un equipo que administra infraestructura tecnológica o redes c
 Aún existen desafíos: brechas salariales, representación desigual en cargos directivos y sesgos en procesos de selección pueden afectar la equidad y la motivación. Sin embargo, los avances recientes muestran que **adaptar las relaciones de producción a la diversidad y la inclusión genera beneficios concretos**: mayor compromiso, innovación y sostenibilidad en los proyectos.
 
 El trabajo moderno requiere entender estas dinámicas, reconocer cómo las estructuras históricas pueden limitar el potencial y diseñar entornos donde cada persona pueda contribuir plenamente. En entornos tecnológicos y de redes, esto se traduce en equipos más cohesionados, mayor capacidad de resolución de problemas y sistemas que funcionan de manera eficiente y sostenible.
+
+
+
+**[⬅️ Volver al índice](../README.md)**
