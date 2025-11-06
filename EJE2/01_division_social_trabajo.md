@@ -20,3 +20,7 @@ En este contexto, comprender la división social del trabajo no solo implica rec
 Aqui tiene un video que habla mejor sobre el tema:
 
 [![01](https://img.youtube.com/vi/gnlTLQgv-Ro/hqdefault.jpg)](https://www.youtube.com/watch?v=gnlTLQgv-Ro)
+
+---
+
+**[⬅️ Volver al índice](../README.md)**
