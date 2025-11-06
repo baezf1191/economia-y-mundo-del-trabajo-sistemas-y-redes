@@ -68,3 +68,6 @@ Esta relación se refleja en varios aspectos:
 * La **transición hacia el trabajo asalariado y la producción técnica** marcó el inicio del trabajo especializado, del cual deriva directamente la figura del **técnico en sistemas**, cuya labor se basa en la **gestión, mantenimiento y optimización** de recursos tecnológicos.
 
 Así, estudiar estas formas históricas no solo tiene valor teórico: ayuda a entender cómo surgieron las estructuras laborales que hoy sostienen el **trabajo técnico, la cooperación digital y la administración de redes modernas**.
+
+
+**[⬅️ Volver al índice](../README.md)**
