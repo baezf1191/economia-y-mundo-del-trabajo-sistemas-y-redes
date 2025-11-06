@@ -24,11 +24,7 @@ El objetivo central de este eje es que los estudiantes no solo comprendan los co
 
 
 
-<p align="center">
-  <a href="/">
-    <button style="background-color:#007bff;color:white;padding:10px 20px;border:none;border-radius:8px;cursor:pointer;">
-      🔙 Volver al índice
-    </button>
-  </a>
-</p>
+<a href="{{ '/' | relative_url }}">
+  <button style="...">🔙 Volver al índice</button>
+</a>
 
