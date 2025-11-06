@@ -3,6 +3,8 @@
 Durante siglos, la producción dependió principalmente de tres factores: **tierra, trabajo y capital**. Sin embargo, con el paso del tiempo, un cuarto elemento se volvió igual o incluso más importante: **el conocimiento**.
 Hoy, la capacidad de producir, innovar y mejorar procesos depende en gran medida de la **información, las ideas y las habilidades técnicas** de las personas.
 
+![imagen3](https://www.ceupe.com/images/easyblog_articles/3629/b2ap3_large_factores-de-produccin.png)
+
 ---
 
 ### **1. El conocimiento como recurso productivo**
