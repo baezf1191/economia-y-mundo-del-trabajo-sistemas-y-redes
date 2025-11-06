@@ -16,6 +16,8 @@ Con la mecanización, esto cambió por completo:
 
 La producción dejó de estar orientada al consumo local y pasó a enfocarse en el **mercado y la ganancia**. Este cambio fue la base del sistema capitalista moderno.
 
+![img4](https://upload.wikimedia.org/wikipedia/commons/c/c3/Hartmann_Maschinenhalle_1868_%2801%29.jpg)
+
 ---
 
 ### **2. Los orígenes del capitalismo industrial**
@@ -40,6 +42,8 @@ Durante la Revolución Industrial, el avance tecnológico fue constante:
 * **El telar mecánico** multiplicó la producción textil.
 * **El ferrocarril** conectó regiones enteras, reduciendo costos y tiempos.
 * Posteriormente, la **electricidad y el motor de combustión** iniciaron la Segunda Revolución Industrial.
+
+![img5](https://www.elextremosur.com/files/image/32/32792/64f5c3e663cb0_1180_664%21.jpg?d=1751896157&s=7983f1a398db3f80964731e5c9da3808)
 
 Cada innovación tecnológica aumentaba la productividad y la capacidad de control sobre el trabajo, transformando profundamente la relación entre el ser humano y la máquina.
 
@@ -66,3 +70,5 @@ Así como las máquinas de vapor cambiaron la forma de producir, hoy lo hacen lo
 El concepto de “fuerza de trabajo” se amplía hacia el conocimiento técnico y la capacidad de **mantener sistemas automatizados, segregar procesos y optimizar recursos**.
 
 La lógica capitalista también se mantiene: la innovación tecnológica busca aumentar la eficiencia, reducir costos y ampliar el mercado. Pero al mismo tiempo, surgen nuevos desafíos éticos y laborales —como la automatización, la vigilancia digital o la brecha de acceso tecnológico— que recuerdan que el progreso técnico siempre debe ir acompañado de una **reflexión social y humana**.
+
+![img6](https://www.cognodata.com/wp-content/uploads/2019/03/procesamiento-de-datos.jpg)
