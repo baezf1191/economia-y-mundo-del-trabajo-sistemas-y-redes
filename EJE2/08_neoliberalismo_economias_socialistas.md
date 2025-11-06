@@ -70,3 +70,7 @@ En el contexto de la **tecnología y redes**, estos fenómenos se reflejan de ma
 He aquí un video sobre el tema:
 
 [![07](https://img.youtube.com/vi/pKVz0MAgRlo/hqdefault.jpg)](https://youtu.be/pKVz0MAgRlo)
+
+---
+
+**[⬅️ Volver al índice](../README.md)**
