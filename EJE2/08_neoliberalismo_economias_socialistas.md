@@ -64,3 +64,9 @@ En el contexto de la **tecnología y redes**, estos fenómenos se reflejan de ma
 * Los profesionales deben ser **flexibles y polivalentes**, adaptándose a distintos entornos, sistemas y tecnologías según las demandas del mercado.
 * La **precarización** puede traducirse en contratos temporales de mantenimiento de sistemas, consultoría o soporte, donde la estabilidad depende del proyecto o la empresa.
 * Al mismo tiempo, **la competitividad impulsa la innovación**, motivando a técnicos y especialistas a capacitarse continuamente y desarrollar soluciones más eficientes.
+
+---
+
+He aquí un video sobre el tema:
+
+[![07](https://img.youtube.com/vi/pKVz0MAgRlo/hqdefault.jpg)](https://youtu.be/pKVz0MAgRlo)
