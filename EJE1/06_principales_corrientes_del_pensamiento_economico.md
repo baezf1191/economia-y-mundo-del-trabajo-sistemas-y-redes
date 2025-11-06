@@ -101,3 +101,8 @@ Los técnicos en sistemas y redes son protagonistas de esta economía, ya que su
 | **Neoliberalismo**             | Estado mínimo, privatización                 | Freelance digital, plataformas globales            | Competencia global            |
 | **Economía verde**             | Regulador ecológico                          | Energías renovables, eficiencia energética         | Sustentabilidad               |
 | **Economía digital**           | Facilitador y regulador                      | Nube, IA, ciberseguridad                           | Información y conocimiento    |
+
+
+---
+
+**[⬅️ Volver al índice](../README.md)**
