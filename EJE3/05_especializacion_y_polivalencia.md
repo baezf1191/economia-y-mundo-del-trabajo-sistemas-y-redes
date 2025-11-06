@@ -17,6 +17,8 @@ La polivalencia, por otro lado, consiste en la capacidad de moverse entre distin
 Las organizaciones modernas buscan profesionales que puedan **profundizar en su área de conocimiento, pero también adaptarse y conectar distintos saberes**. Este equilibrio genera trabajadores más completos, capaces de aportar tanto con sus habilidades técnicas como con su capacidad de innovación y colaboración.
 La flexibilidad no reemplaza la precisión, y la especialización no limita la creatividad: juntas permiten enfrentar retos complejos, donde cada acción individual contribuye al funcionamiento de un sistema colectivo.
 
+![img12](https://www.bizneo.com/blog/wp-content/uploads/2020/08/multitasking-1024x575.jpg)
+
 ### **Implicaciones prácticas en entornos tecnológicos**
 
 En la práctica, el equilibrio entre especialización y polivalencia se refleja en la gestión de sistemas y redes. Configurar un servidor, mantener una infraestructura de red o implementar medidas de ciberseguridad requiere **conocimiento profundo**, pero también la capacidad de **coordinarse con otros equipos y adaptarse a nuevas herramientas o plataformas**. Cada decisión técnica impacta en el rendimiento global y en la experiencia de quienes utilizan los sistemas, mostrando cómo el trabajo individual se articula con objetivos colectivos.
