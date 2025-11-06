@@ -16,6 +16,8 @@ En las últimas décadas, las transformaciones sociales y legales han promovido 
 
 En sectores tecnológicos, estas transformaciones se ven en el incremento de mujeres en roles de desarrollo, administración de redes, ciberseguridad y gestión de sistemas. La diversidad de género fortalece la capacidad de los equipos para resolver problemas complejos, innovar y adaptarse a contextos cambiantes, mostrando que la integración de diferentes perspectivas enriquece el trabajo colectivo.
 
+![img13](https://www.bbva.com/wp-content/uploads/2021/02/ingenieras-e1612975992829.jpg)
+
 ---
 
 ### **Interacción entre estructura y participación individual**
