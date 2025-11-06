@@ -10,4 +10,6 @@ A la vez, la gestión moderna intenta reforzar este contrato a través de estrat
 
 En entornos tecnológicos, donde la cooperación y la resolución de problemas dependen de la confianza y la comunicación efectiva, el contrato psicológico adquiere un papel crucial. Los técnicos, administradores de sistemas y profesionales de redes no solo cumplen funciones operativas: también sostienen **relaciones basadas en la fiabilidad, la responsabilidad compartida y la comunicación transparente**. Si el entorno laboral respeta estos valores, se genera un vínculo más sólido, donde el compromiso no surge de la obligación, sino del reconocimiento mutuo.
 
+![img11](https://media.licdn.com/dms/image/v2/C4E12AQE1MAAFUx202g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1625094218260?e=2147483647&t=pMDNNQ4lk9zJaIc0d4TUtpUx--E7jKSwe7pCd0Y-IjQ&v=beta)
+
 El equilibrio del contrato psicológico, por tanto, no depende solo de políticas o beneficios, sino de la **coherencia entre lo que la organización promete y lo que realmente ofrece**, así como del espacio que otorga para que cada trabajador desarrolle su potencial, manteniendo su autonomía y dignidad dentro de una estructura colectiva.
