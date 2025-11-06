@@ -16,3 +16,5 @@ En esta unidad se abordarán temas clave como:
 - Finalmente, el neoliberalismo, la flexibilización laboral y la precarización del trabajo, incluso dentro de las economías socialistas.
 
 El estudio de estas etapas y modelos permite comprender cómo el trabajo ha sido y sigue siendo una pieza central del desarrollo humano y tecnológico, y cómo sus transformaciones impactan en la vida cotidiana, la economía y la organización social.
+
+**[⬅️ Volver al índice](../README.md)**
