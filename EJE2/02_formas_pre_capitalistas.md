@@ -10,6 +10,8 @@ En las primeras comunidades humanas, el trabajo se organizaba de manera **colect
 * Las tareas —caza, recolección, pesca o agricultura básica— se realizaban en conjunto, repartiéndose los frutos según las necesidades de cada miembro.
 * La economía era **de subsistencia**, y el trabajo tenía un valor social, no individual.
 
+![imagen1](https://46f0b58d94.cbaul-cdnwnd.com/9d33646dfe6d8267524de956a575127e/200000051-ca7b4ca7b6/division%20trabajo%20.jpeg?ph=46f0b58d94)
+
 Esta forma de organización marcó el origen de la **colaboración como base del trabajo humano**, donde la supervivencia dependía del esfuerzo común y del conocimiento compartido.
 
 ### **2. Esclavismo**
@@ -30,6 +32,8 @@ Tras la caída del Imperio Romano, el sistema feudal dominó Europa durante gran
 * El trabajo estaba organizado alrededor del **señor feudal** (dueño de la tierra) y los **campesinos o siervos**, quienes trabajaban las tierras a cambio de protección y sustento.
 * No existía una economía de mercado como tal; la producción se destinaba al **autoconsumo**.
 
+![imagen2](https://concepto.de/wp-content/uploads/2019/06/modo-de-produccion-feudad-edad-media-medieval-feudalismo-clases-sociales-noble-clero-campesinos-e1561914579102.jpg)
+
 Aunque era un sistema rígido, dentro de él empezaron a surgir **formas de cooperación y especialización**, con la aparición de oficios y talleres en las aldeas.
 
 ### **4. Gremios y corporaciones artesanales**
@@ -39,6 +43,8 @@ Hacia los siglos XIII y XV, las ciudades crecieron y con ellas aparecieron los *
 * Cada oficio tenía su propio gremio (carpinteros, herreros, tejedores, etc.).
 * Existían tres niveles: **aprendiz**, **oficial** y **maestro artesano**.
 * Los gremios establecían normas éticas, técnicas y sociales, fomentando la **transmisión de conocimiento** y el **control comunitario** sobre la producción.
+
+![imagen3](https://content-historia.nationalgeographic.com.es/medio/2023/01/20/el-taller-del-pintor_60f2f1a9_230120134720_1280x872.jpg)
 
 Este modelo marcó una transición importante: el trabajo empezó a tener un componente **técnico y formativo**, sentando las bases del futuro trabajo especializado.
 
