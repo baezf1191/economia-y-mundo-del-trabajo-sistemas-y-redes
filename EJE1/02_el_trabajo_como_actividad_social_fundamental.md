@@ -85,3 +85,8 @@ En este contexto, los técnicos en sistemas y redes son los **nuevos pilares de 
 Puede Observar el siguiente video educativo para informarse más:
 
 [![02](https://img.youtube.com/vi/6yPKevyLj8E/hqdefault.jpg)](https://www.youtube.com/watch?v=6yPKevyLj8E)
+
+
+---
+
+**[⬅️ Volver al índice](../README.md)**
