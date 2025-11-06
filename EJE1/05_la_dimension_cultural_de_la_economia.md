@@ -19,3 +19,8 @@ En definitiva, la economía digital moderna no se construye solo con datos y ser
 Si el tema le llamó la atención, puede mirar el siguiente video, el cual es de una jornada virtual que habla sobre lo anteriormente explicado:
 
 [![04](https://img.youtube.com/vi/6_BolhE34Vc/hqdefault.jpg)](https://www.youtube.com/watch?v=6_BolhE34Vc)
+
+
+---
+
+**[⬅️ Volver al índice](../README.md)**
