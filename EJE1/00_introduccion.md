@@ -24,7 +24,7 @@ El objetivo central de este eje es que los estudiantes no solo comprendan los co
 
 
 
-<a href="{{ '/' | relative_url }}">
+<a href="{{ './README.md' | relative_url }}">
   <button style="...">🔙 Volver al índice</button>
 </a>
 
