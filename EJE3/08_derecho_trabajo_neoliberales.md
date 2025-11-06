@@ -18,6 +18,8 @@ El auge de las políticas neoliberales, especialmente desde finales del siglo XX
 
 Estas transformaciones modifican no solo las condiciones de empleo, sino también la **experiencia subjetiva del trabajo**, afectando motivación, identidad profesional y sensación de pertenencia a un colectivo.
 
+![img15](https://prensared.org.ar/wp-content/uploads/2022/06/597c82fc08f3d93f2d8b4568-e1656340716689.jpg)
+
 ---
 
 ### **Equilibrio entre derechos y adaptabilidad**
