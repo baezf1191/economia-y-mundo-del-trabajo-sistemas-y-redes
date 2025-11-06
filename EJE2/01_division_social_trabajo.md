@@ -15,3 +15,8 @@ En el ámbito de la **tecnología y administración de redes**, la división del
 Cada rol cumple una función indispensable, y la **coordinación entre ellos** asegura el correcto funcionamiento de toda la estructura tecnológica.
 
 En este contexto, comprender la división social del trabajo no solo implica reconocer las diferencias entre profesiones, sino también **entender cómo se articulan y dependen unas de otras** para mantener operativos los sistemas que sostienen a empresas, instituciones y comunidades enteras.
+
+---
+Aqui tiene un video que habla mejor sobre el tema:
+
+[![01](https://img.youtube.com/vi/gnlTLQgv-Ro/hqdefault.jpg)](https://www.youtube.com/watch?v=gnlTLQgv-Ro)
