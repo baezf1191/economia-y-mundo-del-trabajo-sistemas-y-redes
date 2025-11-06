@@ -14,6 +14,8 @@ Las principales características del Taylorismo son:
 * **Estudio científico del trabajo:** se miden tiempos y movimientos para encontrar la forma más eficiente.
 * **Incentivos salariales:** el pago se asocia al rendimiento del trabajador.
 
+![img8](https://cienciapoliticataylorismo.wordpress.com/wp-content/uploads/2011/11/taylorismo.jpg?w=627&h=489)
+
 Si bien aumentó la productividad, redujo al trabajador a una **pieza del engranaje industrial**, eliminando la creatividad y la autonomía.
 
 ---
@@ -21,6 +23,8 @@ Si bien aumentó la productividad, redujo al trabajador a una **pieza del engran
 #### **Fordismo: producción en masa y consumo en masa**
 
 El **Fordismo**, desarrollado por **Henry Ford**, llevó los principios tayloristas al extremo mediante la **línea de ensamblaje**. Este modelo permitió fabricar productos en serie a bajo costo, como el famoso **Ford T**, haciendo posible el acceso de las masas a bienes antes reservados a unos pocos.
+
+![img9](https://images.coches.com/_news_/2013/10/Ford-T-100-a%C3%B1os-1-650x420.jpg)
 
 Sus características principales fueron:
 
@@ -49,3 +53,9 @@ El espíritu taylorista de dividir y optimizar tareas se refleja en la **segment
 A su vez, el enfoque fordista puede verse en la **automatización de procesos**, la **estandarización de protocolos** y la búsqueda de eficiencia en infraestructuras digitales.
 
 Sin embargo, la evolución posterior del trabajo tecnológico se orienta hacia esquemas más flexibles y colaborativos, como los que surgirán con el **toyotismo y el posfordismo**, donde la autonomía, la innovación y la adaptabilidad se vuelven esenciales.
+
+---
+
+Dejo un video que explica de forma resumida el tema:
+
+[![06](https://img.youtube.com/vi/9E-9OpfWaGE/hqdefault.jpg)](https://youtu.be/9E-9OpfWaGE)
