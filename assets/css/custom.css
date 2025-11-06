@@ -1,0 +1,37 @@
+/* Cambiar el color principal (header y botones) */
+.page-header {
+  background: linear-gradient(270deg, #0077ff, #00ffcc, #0077ff);
+  background-size: 600% 600%;
+  animation: gradientMove 10s ease infinite;
+  color: #ffffff;
+  padding: 2rem 0;
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+
+/* Cambiar el color de los enlaces */
+a {
+  color: #00bfa5;
+}
+
+a:hover {
+  color: #ff6f61;
+}
+
+/* Cambiar el color de fondo de la página */
+body {
+  background-color: #f5f5f5;
+  color: #111;
+}
+
+/* Cambiar el color de las secciones principales */
+.main-content {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+}
