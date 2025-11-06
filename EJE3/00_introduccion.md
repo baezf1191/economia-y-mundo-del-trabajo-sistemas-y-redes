@@ -17,3 +17,6 @@ A lo largo de la unidad, se abordarán temas como:
 
 Esta unidad invita a analizar **cómo el trabajo configura nuestra identidad**, y cómo los cambios tecnológicos, económicos y sociales influyen en esa construcción.
 Para un técnico en **Administración de Sistemas y Redes**, esto implica comprender que detrás de cada sistema o infraestructura hay personas, y que su bienestar, motivación y sentido de pertenencia son tan importantes como la eficiencia técnica o la productividad.
+
+
+**[⬅️ Volver al índice](../README.md)**
