@@ -24,4 +24,4 @@ El objetivo central de este eje es que los estudiantes no solo comprendan los co
 
 
 
-**[⬅️ Volver al índice](../)**
+**[⬅️ Volver al índice](../README.md)**
