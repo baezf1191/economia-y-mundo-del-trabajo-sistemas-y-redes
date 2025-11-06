@@ -26,3 +26,6 @@ En la práctica, el equilibrio entre especialización y polivalencia se refleja 
 ### **Aprendizaje continuo y desarrollo profesional**
 
 Finalmente, las nuevas calificaciones laborales enfatizan la importancia de **aprender a aprender**. Los profesionales deben actualizar constantemente sus conocimientos, integrar nuevas tecnologías y asumir responsabilidades diversas. La combinación de especialización y polivalencia permite no solo cumplir con eficiencia, sino también crecer y generar valor dentro de un contexto laboral en constante transformación.
+
+
+**[⬅️ Volver al índice](../README.md)**
