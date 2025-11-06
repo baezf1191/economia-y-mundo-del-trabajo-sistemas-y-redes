@@ -72,3 +72,9 @@ El concepto de “fuerza de trabajo” se amplía hacia el conocimiento técnico
 La lógica capitalista también se mantiene: la innovación tecnológica busca aumentar la eficiencia, reducir costos y ampliar el mercado. Pero al mismo tiempo, surgen nuevos desafíos éticos y laborales —como la automatización, la vigilancia digital o la brecha de acceso tecnológico— que recuerdan que el progreso técnico siempre debe ir acompañado de una **reflexión social y humana**.
 
 ![img6](https://www.cognodata.com/wp-content/uploads/2019/03/procesamiento-de-datos.jpg)
+
+
+---
+
+
+**[⬅️ Volver al índice](../README.md)**
