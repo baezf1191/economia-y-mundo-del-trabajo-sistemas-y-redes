@@ -14,6 +14,7 @@ Este repositorio está hecho con el fin de realizar un trabajo en el área de "E
 - [06-Principales Corrientes del Pensamiento Económico](EJE1/06_principales_corrientes_del_pensamiento_economico.md)
 - [07-Vinculaciones entre las Dimensiones "Micro" y "Macro" de la Economía](EJE1/07_vinculacion_entre_dimensiones_micro_y_macro_de_la_economia.md)
 - [08-Formas Cooperativas y Comunitarias de Trabajo](EJE1/08_formas_cooperativas_y_comunitarias_de_trabajo.md)
+
 ---
 # UNIDAD 2
 - [00-Introducción](EJE2/00_introduccion.md)
@@ -25,6 +26,7 @@ Este repositorio está hecho con el fin de realizar un trabajo en el área de "E
 - [06-Taylorismo y Fordismo: características, Impacto Sociocultural y relacion con el Keynesianismo y el contexto de la sociedad de Bienestar](EJE2/06_taylorismo_fordismo.md)
 - [07-Organizacion Toyotismo y Posfordismo](EJE2/07_toyotismo_posfordismo.md)
 - [08-Neoliberalismo, flexibilización y precarización del trabajo en las economías socialistas](EJE2/08_neoliberalismo_economias_socialistas.md)
+
 ---
 # UNIDAD 3
 - [00-Introducción](EJE3/00_introduccion.md)
