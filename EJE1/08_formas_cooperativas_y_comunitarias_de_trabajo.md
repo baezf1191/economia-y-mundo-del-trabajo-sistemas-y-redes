@@ -50,3 +50,6 @@ Para un profesional en **administración de sistemas y redes**, comprender y par
 
 4. **Contribución a la economía del conocimiento:**
    Al participar en proyectos abiertos y colaborativos, el técnico no solo desarrolla habilidades personales, sino que también **incrementa el valor social y económico de la tecnología** para toda la sociedad.
+
+
+**[⬅️ Volver al índice](../README.md)**
