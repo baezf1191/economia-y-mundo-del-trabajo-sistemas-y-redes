@@ -11,3 +11,6 @@ Desde una perspectiva técnica, estos dispositivos también transforman la relac
 En este marco, las personas que operan dentro de sistemas tecnológicos —como quienes administran redes, gestionan servidores o implementan soluciones informáticas— experimentan de manera directa cómo el trabajo se vuelve una extensión de la inteligencia colectiva y del flujo continuo de información. El conocimiento técnico deja de ser algo fijo: se convierte en una forma de subjetividad activa, moldeada por la interacción con sistemas complejos y con otros profesionales que integran la misma red de producción.
 
 Así, los **modos de subjetivación modernos** ya no se limitan a la figura del trabajador asalariado tradicional, sino que abarcan al individuo conectado, creativo, adaptable y consciente de su papel dentro de estructuras productivas globalizadas. En este nuevo paradigma, **trabajar implica tanto participar de una red socio técnica como construir una identidad dentro de ella**, equilibrando la autonomía personal con la interdependencia que impone la tecnología.
+
+
+**[⬅️ Volver al índice](../README.md)**
