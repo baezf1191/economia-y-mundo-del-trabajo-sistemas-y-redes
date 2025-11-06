@@ -46,3 +46,6 @@ En los espacios técnicos, esta diferencia se nota con claridad: participar en l
 
 El trabajo puede ser tanto **una forma de creación de uno mismo** como **un mecanismo que lo borra**. Encontrar equilibrio entre eficiencia y humanidad, entre norma y creatividad, es lo que transforma una ocupación en una vocación.
 Cuando el conocimiento se combina con la libertad y el propósito, el trabajo deja de ser solo un medio para vivir y se convierte en una manera de **darle forma a la propia existencia**.
+
+
+**[⬅️ Volver al índice](../README.md)**
