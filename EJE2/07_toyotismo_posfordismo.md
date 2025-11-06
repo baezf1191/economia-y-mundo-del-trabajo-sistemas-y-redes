@@ -60,3 +60,8 @@ En el contexto de la **Administración de Sistemas y Redes**, los principios del
 * La **flexibilidad** se traduce en la capacidad de **adaptar redes, infraestructuras o configuraciones** según las necesidades de los usuarios o del entorno.
 * La **mejora continua** encuentra su equivalente en la **actualización constante de software, protocolos y seguridad**.
 * Finalmente, el **trabajo colaborativo** y la **formación permanente** son esenciales para un técnico que debe integrar conocimientos de múltiples áreas y adaptarse a entornos tecnológicos en constante evolución.
+
+
+---
+
+**[⬅️ Volver al índice](../README.md)**
