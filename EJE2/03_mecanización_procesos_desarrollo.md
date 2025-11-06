@@ -62,3 +62,6 @@ Para un técnico en administración de sistemas y redes, la mecanización y el d
 * La **automatización de tareas** (como copias de seguridad, monitoreo o actualización de sistemas) es una forma moderna de mecanización.
 * Los **procesos técnicos** se aplican en la planificación y ejecución de redes, donde cada paso —configurar routers, optimizar ancho de banda, asegurar conexiones— debe seguir estándares precisos.
 * El **desarrollo tecnológico** constante exige actualización permanente: conocer nuevas herramientas, protocolos y sistemas que optimicen la infraestructura digital.
+
+
+**[⬅️ Volver al índice](../README.md)**
