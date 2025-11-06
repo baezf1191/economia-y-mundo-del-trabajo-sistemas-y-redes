@@ -35,3 +35,7 @@ En sectores tecnológicos y de sistemas, esto se traduce en la necesidad de capa
 El entorno laboral actual, marcado por la digitalización y la globalización, presenta tanto retos como oportunidades. Por un lado, la precarización y la presión por resultados rápidos pueden limitar la autonomía y la estabilidad. Por otro, la integración de herramientas digitales, la formación continua y las redes profesionales permiten acceder a nuevos puestos, especializaciones y formas de colaboración.
 
 En definitiva, garantizar el derecho al trabajo en este contexto implica **combinar adaptabilidad, actualización tecnológica y participación colectiva**. El equilibrio entre estas dimensiones permite que el trabajo siga siendo un medio de realización personal, proyección profesional y contribución a la sociedad, incluso en un marco neoliberal donde la flexibilidad y la eficiencia son exigencias permanentes.
+
+
+
+**[⬅️ Volver al índice](../README.md)**
