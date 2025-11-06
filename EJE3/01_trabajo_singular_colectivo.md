@@ -39,3 +39,6 @@ La comunicación, la empatía y la cooperación son tan necesarias como el conoc
 En última instancia, el trabajo expresa una doble naturaleza: **es una experiencia personal que cobra sentido en comunidad**, y una construcción social que solo existe a través de las acciones de individuos singulares.
 
 Así, cada profesional, desde su lugar, aporta no solo conocimientos, sino también una parte de sí mismo al entramado común que sostiene a la sociedad moderna. En ese equilibrio entre autonomía y colaboración, entre talento personal y propósito compartido, se encuentra la verdadera esencia del trabajo humano.
+
+
+**[⬅️ Volver al índice](../README.md)**
