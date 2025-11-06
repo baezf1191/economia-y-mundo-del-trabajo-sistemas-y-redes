@@ -73,3 +73,7 @@ Cada una de estas decisiones representa un **problema económico en miniatura**,
 Si muestra más interes en este tema, puede observar el siguiente video:
 
 [![Problema economico](https://img.youtube.com/vi/n_0fgA5TvDM/hqdefault.jpg)](https://www.youtube.com/watch?v=n_0fgA5TvDM)
+
+---
+
+**[⬅️ Volver al índice](../README.md)**
