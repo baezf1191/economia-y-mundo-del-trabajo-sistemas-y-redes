@@ -59,3 +59,8 @@ Sin embargo, la evolución posterior del trabajo tecnológico se orienta hacia e
 Dejo un video que explica de forma resumida el tema:
 
 [![06](https://img.youtube.com/vi/9E-9OpfWaGE/hqdefault.jpg)](https://youtu.be/9E-9OpfWaGE)
+
+
+---
+
+**[⬅️ Volver al índice](../README.md)**
