@@ -1,3 +1,6 @@
-title: "Trabajo de Economía - Fabián Báez"
-description: "Proyecto académico sobre economía, tecnología y redes."
-theme: jekyll-theme-merlot
+title: "Trabajo de Economía"
+description: "Un recorrido por las unidades de Economía y Sociedad"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+
