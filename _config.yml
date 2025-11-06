@@ -1,7 +1,3 @@
 title: "Trabajo de Economía - Fabián Báez"
 description: "Proyecto académico sobre economía, tecnología y redes."
-markdown: kramdown
-plugins:
-  - jekyll-include-cache
-
-theme: null
+theme: jekyll-theme-cayman
