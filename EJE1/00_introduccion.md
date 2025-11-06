@@ -21,3 +21,13 @@ Entre los temas principales se incluyen:
 - Las formas cooperativas y comunitarias de trabajo: Se analiza la organización del trabajo más allá del esquema empresarial tradicional, incluyendo cooperativas y proyectos comunitarios, destacando la colaboración, la equidad y la sostenibilidad como ejes de desarrollo.
 
 El objetivo central de este eje es que los estudiantes no solo comprendan los conceptos económicos en abstracto, sino que sean capaces de relacionarlos con situaciones concretas de la vida diaria y del ámbito profesional, especialmente en la administración de sistemas y redes. Esto permite identificar cómo las decisiones económicas, la gestión de recursos, la cooperación y la innovación tecnológica se combinan para optimizar procesos, mejorar la productividad y generar soluciones eficientes en un contexto social y laboral.
+
+
+
+<p align="center">
+  <a href="/README.md">
+    <button style="background-color:#007bff;color:white;padding:10px 20px;border:none;border-radius:8px;cursor:pointer;">
+      🔙 Volver al índice
+    </button>
+  </a>
+</p>
