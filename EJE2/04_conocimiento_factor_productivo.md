@@ -62,3 +62,6 @@ El dominio de protocolos, la comprensión de la arquitectura de una red, la capa
 
 Cada decisión técnica —elegir un sistema operativo, configurar un servidor, optimizar una red o diseñar una política de seguridad— es una forma de producción basada en el conocimiento.
 Y como ocurre en la economía en general, **cuanto más conocimiento se genera y se comparte**, mayor es la eficiencia, la estabilidad y la capacidad de innovación del entorno donde se trabaja.
+
+
+**[⬅️ Volver al índice](../README.md)**
