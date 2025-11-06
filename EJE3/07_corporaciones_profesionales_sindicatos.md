@@ -20,6 +20,8 @@ En ámbitos técnicos, como sistemas y redes, estas corporaciones fomentan la ac
 
 Los **sindicatos**, por su parte, representan a los trabajadores ante empleadores y gobiernos, defendiendo condiciones laborales justas y equitativas. Su acción se centra en la negociación colectiva, la seguridad laboral, la igualdad de oportunidades y la protección frente a abusos o precarización.
 
+![img14](https://ctaa.org.ar/wp-content/uploads/2025/04/corrientes.jpg)
+
 Incluso en sectores altamente especializados y tecnológicos, los sindicatos pueden influir en la definición de políticas de teletrabajo, jornadas laborales, salarios, formación continua y acceso a beneficios. Esto asegura que las decisiones organizativas no recaigan únicamente sobre la dirección, sino que contemplen la voz de quienes ejecutan y sostienen los sistemas.
 
 ---
