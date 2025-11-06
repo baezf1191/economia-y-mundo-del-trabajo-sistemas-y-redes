@@ -8,6 +8,8 @@ Tras la crisis del modelo fordista en los años 70, surgieron nuevas formas de o
 
 El **Toyotismo** nació en Japón, impulsado por **Taiichi Ohno** en la empresa **Toyota**. A diferencia del Fordismo, que se basaba en la producción masiva y estandarizada, el Toyotismo propuso una **producción ajustada (“just in time”)**, fabricando solo lo necesario, en el momento preciso y con la menor cantidad de desperdicios posible.
 
+![img10](https://concepto.de/wp-content/uploads/2023/01/metodo-just-in-time.jpg)
+
 Sus principales características son:
 
 * **Producción Just in Time:** los materiales llegan cuando se necesitan, reduciendo inventarios y costos.
