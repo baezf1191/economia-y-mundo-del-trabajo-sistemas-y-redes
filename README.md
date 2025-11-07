@@ -55,5 +55,4 @@ Si querés dejar tu opinión o hacerme una pregunta, podés hacerlo abajo 👇
         crossorigin="anonymous"
         async>
 </script>
-</script>
 
