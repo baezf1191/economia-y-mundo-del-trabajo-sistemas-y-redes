@@ -40,3 +40,20 @@ Este repositorio está hecho con el fin de realizar un trabajo en el área de "E
 - [06-Relaciones de producción y transformaciones de género](EJE3/06_produccion_transformacion_genero.md)
 - [07-Modos de asociación política en torno al mundo del trabajo: corporaciones profesionales y sindicatos](EJE3/07_corporaciones_profesionales_sindicatos.md)
 - [08-El derecho al trabajo y las transformaciones neoliberales](EJE3/08_derecho_trabajo_neoliberales.md)
+
+
+---
+
+## 💬 Comentarios o sugerencias
+
+Si querés dejar tu opinión o hacerme una pregunta, podés hacerlo abajo 👇
+
+<script src="https://utteranc.es/client.js"
+        repo="baezf1191/EconomiayMundodelTrabajo"
+        issue-term="pathname"
+        theme="gruvbox-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+</script>
+
